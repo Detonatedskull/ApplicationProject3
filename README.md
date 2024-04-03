@@ -5,6 +5,9 @@ This project is aimed at developing a classification model using the Random Fore
 ## About the Developer
 This project was created by Kiran Pillai, an AI and Machine Learning (AIML) developer passionate about leveraging technology to create solutions that enhance accessibility and improve lives. With a background in computer science and expertise in machine learning algorithms, Kiran has dedicated efforts to projects aimed at solving real-world problems and making a positive impact.
 
+## How to Run
+Then there are 4 files which have to be run in the order -> CollectImages.py-> Create_dataset.py-> Train_classifier.py-> inference_classifier.py. Else you can directly run the inference_classifier provided you have the model.p file and the data folder This is a test statement
+
 ### Project Details
 #### >Objective
 The primary objective of this project is to develop an image classification system capable of recognizing ASL letters from images captured by a camera. The system utilizes the Random Forest algorithm, a powerful ensemble learning method known for its robustness and effectiveness in handling classification tasks.
